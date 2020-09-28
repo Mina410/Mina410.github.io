@@ -1,9 +1,22 @@
-h1{
-    color:red
-    }
-a{
-    color:violet
+body {
+    background-color: darkseagreen;
+    width: 700px;
+    margin: 30px auto;
+
+}
+div {
+    background-color: palevioletred;
+    padding: 20px;
+    text-align: center;
+    border: 10px solid mediumvioletred;
+    
 }
 h2{
     color:red
+}
+img {
+border: solid 10px mediumvioletred;
+width: 314px;
+height: 229px;
+
 }
