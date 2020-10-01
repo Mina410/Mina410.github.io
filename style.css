@@ -12,11 +12,23 @@ div {
     
 }
 h2{
-    color:red
+    color: mediumvioletred
 }
 img {
-border: solid 10px mediumvioletred;
-width: 314px;
-height: 229px;
+     border: 7px solid olive;
+     width: 314px;
+     height: 229px;
+}
+h3{
+    background-color:palevioletred;
+    width: 180px;
+    text-align: center;
+    font-size: 23px;
+}
 
+h4{
+    background-color:palevioletred;
+    width: 330px;
+    text-align: center;
+    font-size: 23px;
 }
