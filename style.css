@@ -19,6 +19,12 @@ img {
      width: 314px;
      height: 229px;
 }
+
+
+.image_size_n{
+    width: 270px;
+    height: 230px;
+}
 h3{
     background-color:palevioletred;
     width: 180px;
