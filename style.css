@@ -21,10 +21,16 @@ img {
 }
 
 
-.image_size_n{
-    width: 270px;
-    height: 230px;
+img.example1{
+    width: 500px;
+    height: 300px;
 }
+
+img.example2{
+    width: 400px;
+    height: 300px;
+}
+
 h3{
     background-color:palevioletred;
     width: 180px;
